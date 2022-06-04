@@ -1,3 +1,2 @@
-
 #!/bin/bash
 chmod ugo+x ./dir/0/1/2
